@@ -1,2 +1,2 @@
 # Git-New-Demo
-New Git
+New Git Demo for bigners.
